@@ -1,1 +1,1 @@
-# drt-rs-ibc
+# drt-ibc-rs
